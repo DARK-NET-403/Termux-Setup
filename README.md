@@ -1,53 +1,82 @@
 
-## Assalamaualaikum
-## Termux-Setup
-* Created by Ariyan Rabbi
-* Don't Try to decompile or edit this tool.
-* This tool for Termux Setup by 
-* Use this only for educational purpose.
-* I can't responsible for any misuse.Use this at your own risk.
-## Commands & Usage:⬇️
-````
+<h1 align="center">⚡ Termux-Setup v1.0 ⚡</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-Termux-blue?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/Creator-Ariyan%20Rabbi-green?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 🔰 Assalamu Alaikum Hackerz!
+
+> **"Your terminal deserves a glow-up!"**  
+> This is **Termux-Setup**, an all-in-one setup tool to turn your Termux into a hacker's command center!  
+> Perfect for beginners, pro hackers, and cybersecurity learners!
+
+---
+
+## ⚙️ Key Features:
+- 🔐 Password-protected login system  
+- ⚙️ Auto-run **Device Info** when terminal opens  
+- 🧹 Banner removal and cleaner interface  
+- ⏱️ Live **Time & Date** display  
+- ✨ Fully customizable and beginner friendly
+
+---
+
+## ⚡ Installation & Usage:
+
+```bash
 termux-setup-storage
-pkg install python
-pkg install git
-pkg install curl
-pkg install wget
-pkg install nano
-pkg install vim
-pkg install neofetch
-pkg install figlet
-pip install pyfiglet
-pip install colorama
-pip install termcolor
+pkg update -y && pkg upgrade -y
+pkg install python git curl wget nano vim neofetch figlet -y
+pip install pyfiglet colorama termcolor
 rm -rf Termux-Setup
 git clone https://github.com/DARK-NET-403/Termux-Setup
 cd Termux-Setup
 chmod +x setup.bin
 ./setup.bin
-````
-## Features:⬇️
+```
 
-* `Login System By Password`
-* `Device Info Showing When Terminal Opened`
-* `All Banner Remove Option`
-* `Showing Time`
-Code For Showing Time Date Was Copied From Another Tool
+---
 
-## Trouble-Shoot
-* `Download The Latest Version Of Termux From F-droid`
-* `For Change Login Password Run This Tool And Make Banner Again With New Password`
-* `For Remove Banner Run This Tool And Select 'Remove Banner' Option`
+## ⚠️ Notes & Tips:
+- 📥 Always install Termux from **F-Droid** for latest compatibility.
+- 🔑 Want to change your login password? Re-run the setup tool!
+- ❌ Need to remove banner? Just choose **"Remove Banner"** from the menu.
 
-#### All Error Was Fixed.If You Find Any Error Contract With Me
+---
 
-## Find Me on :
+## 🧠 Educational Purpose Only!
+This tool is created for educational and ethical learning. I take no responsibility for misuse. Use wisely, stay safe!
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/1FiCkCecyD/)
-[![Teligram](https://img.shields.io/badge/Chat-Teligram-blue?style=for-the-badge&logo=teligram)](https://t.me/DARK_NET_403)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/DARK.NET.403)
-[![Github](https://img.shields.io/badge/Github-Github-143green?style=for-the-badge&logo=github)](https://github.com/DARK-NET-403)
+---
 
+## 🧑‍💻 Author Info:
 
-### Enjoy All
-### Thanks ❣️❣️
+| Contact | Link |
+|--------|------|
+| Facebook | [Follow Me](https://www.facebook.com/share/1FiCkCecyD/) |
+| Telegram | [Join Chat](https://t.me/DARK_NET_403) |
+| Messenger | [Message Me](https://m.me/DARK.NET.403) |
+| GitHub | [My Projects](https://github.com/DARK-NET-403) |
+
+---
+
+## ❤️ Show Some Love:
+
+```bash
+⭐ Star the repo
+📢 Share with your hacker friends
+```
+
+> **Coded with pride by `Ariyan Rabbi` for the Termux Legends**  
+> Stay anonymous. Stay secure. Stay ethical.
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300px" />
+</p>
+
+---
+
