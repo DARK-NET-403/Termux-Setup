@@ -35,7 +35,8 @@ pip install pyfiglet colorama termcolor
 rm -rf Termux-Setup
 git clone https://github.com/DARK-NET-403/Termux-Setup
 cd Termux-Setup
-python run.py
+chmod +x setup.bin
+./setup.bin
 ```
 
 ---
